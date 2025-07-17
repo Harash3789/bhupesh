@@ -1,4 +1,4 @@
- bike_name,price,city,kms_driven,owner,age,power,brand
+bike_name,price,city,kms_driven,owner,age,power,brand
 TVS Star City Plus Dual Tone 110cc,35000.0,Ahmedabad,17654.0,First Owner,3.0,110.0,TVS
 Royal Enfield Classic 350cc,119900.0,Delhi,11000.0,First Owner,4.0,350.0,Royal Enfield
 Triumph Daytona 675R,600000.0,Delhi,110.0,First Owner,8.0,675.0,Triumph
